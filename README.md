@@ -4,7 +4,12 @@ CDN Services. Only use load-balance, not fastly,g-core,bunny or cloudflare !
 Get github raw file like:
 ```
 //raw.githubusercontent.com/lsyyyy01-web/cdn-ubiquitous-rotary-phone/refs/heads/main/README.md
+https://github.com/lsyyyy01-web/cdn-ubiquitous-rotary-phone/blob/main/index/github-mark.png?raw=true
 ```
+
+
+# services closed
+----- 
 Change "raw.githubusercontent.com" into "load-balance-ghcdn.755554.xyz"
 
 How it works?
